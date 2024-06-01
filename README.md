@@ -70,4 +70,4 @@ Refer to the ft_printf.h header file for a full list of format specifiers and mo
 The ft_printf function returns the number of characters printed (excluding the null byte used to terminate output strings). If an error occurs, it returns a negative value.
 
 ## Contact
-Your Name - your_email@example.com
+Erik Grigoryan - ergrigor@student.42yerevan.am
